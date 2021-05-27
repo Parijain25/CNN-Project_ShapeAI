@@ -1,4 +1,4 @@
-#SHAPEAI WEB DEV BOOTCAMP
+<H1>SHAPEAI WEB DEV BOOTCAMP</h1>
 Hi I made this project during the 7 Days Free Bootcamp conducted by <b> SHAPEAI
 </b>
 The instructor during this session was Mr. Shaurya Sinha(a Data Analyst at Jio). I got to
@@ -13,7 +13,6 @@ or follow SHAPEAI on:
 "https://www.instagram.com/shape.ai/?hi=en">instagram</a>
 <li><a href=
 "https://www.linkedin.com/company/shapeai">Linkedin</a>
-<li a href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">Youtube</a>
+<li a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">Youtube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
