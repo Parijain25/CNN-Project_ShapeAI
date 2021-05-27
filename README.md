@@ -10,9 +10,9 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 www.shapeai.tech
 or follow SHAPEAI on:
 <li><a href=
-"https://www.instagram.com/shape.ai/?hi=en">instagram</a>
+"https://www.instagram.com/shape.ai/?hi=en">Instagram</a>
 <li><a href=
 "https://www.linkedin.com/company/shapeai">Linkedin</a>
-<li a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">Youtube</a>
+<li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">Youtube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
